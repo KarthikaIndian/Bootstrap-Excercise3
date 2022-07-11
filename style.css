@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-text i{
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+
+   
+}
+.bx{
+    margin-top: -40;
+}
